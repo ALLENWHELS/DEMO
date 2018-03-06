@@ -8,6 +8,8 @@ public class HelloWorld {
     }
  
     public static string demo(){
-	return " ";
+           
+	return "hello world!";
     }
+
 }
